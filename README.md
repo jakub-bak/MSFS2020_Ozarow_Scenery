@@ -1,5 +1,5 @@
 # Lądowisko Ożarów dla Microsoft Flight Simulator 2020
-English version below.
+[English version below.](https://github.com/jakub-bak/MSFS2020_Ozarow_Scenery#o%C5%BCar%C3%B3w-airfield-for-microsoft-flight-simulator-2020)
 
 Trawiaste lądowisko na północ od Ożarowa.
 Dokładne informacje można znaleźć tutaj: https://lotniska.dlapilota.pl/ozarow
